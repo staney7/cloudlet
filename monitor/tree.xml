@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tree id="0" radio="1">
+	<item   text="group1" id="books" open="1">
+		<item text="slave1" id="mystery">
+			<item text="slave1" id="slave1"> </item>
+			<item text="zhangsong" id="lb">
+			</item>
+			<item text="my_cluster" id="rc">
+			</item>
+		</item>
+		<item text="slave2" id="history">
+			<item text="slave1" id="slave1"> </item>
+			<item></item>
+		</item>
+		<item text="slave3" id="horror" open="1">
+
+		</item>
+		<item text="slave4" id="fantasy">
+
+		</item>
+		<item text="slave5" id="teens">
+
+		</item>
+	</item>
+</tree>
